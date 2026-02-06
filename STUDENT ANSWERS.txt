@@ -1,0 +1,10 @@
+=== STUDENT ANSWERS ===
+Q1:
+Student 1: AI is the ability of machines to think.
+Student 2: AI means robots.
+Student 3: Artificial intelligence allows systems to learn.
+
+Q2:
+Student 1: ML is part of AI.
+Student 2: ML is coding.
+Student 3: ML uses data to learn patterns.

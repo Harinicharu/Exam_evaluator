@@ -1,0 +1,15 @@
+Q1 (5 marks):
+What is Machine Learning?
+Machine Learning is a branch of AI that enables systems to learn from data.
+
+Q2 (5 marks):
+What is NLP?
+NLP deals with interaction between computers and human language
+=== ANSWER KEY ===
+Q1 (5 marks):
+What is AI?
+Artificial Intelligence is the simulation of human intelligence.
+
+Q2 (5 marks):
+What is ML?
+Machine Learning is a subset of AI.
